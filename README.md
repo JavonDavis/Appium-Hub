@@ -1,2 +1,3 @@
-# Appium-Hub
-Repository for in-depth Appium Documentation and Samples 
+# Appium Hub
+
+Repository for in-depth Appium Documentation, Use Cases and Examples
